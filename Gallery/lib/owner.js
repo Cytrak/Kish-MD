@@ -7,13 +7,13 @@ const ownermenu=`
  │ ${prefix}join
  │ ${prefix}mode
  │ ${prefix}shutdown
- │ ${prefix}restart
+ │ ${prefix}reboot
  │ ${prefix}autoread
  │ ${prefix}autotyping
  │ ${prefix}autorecording
- │ ${prefix}autorecordtyp
+ │ ${prefix}autorecord&typ
  │ ${prefix}autoswview
- │ ${prefix}setppbot
+ │ ${prefix}pp
  │ ${prefix}block
  │ ${prefix}unblock
  │ ${prefix}getcase
