@@ -6,6 +6,6 @@
 *uptime* : *#uptime*
 #ubutton\url name# #url\button url#
 #button\button# #header\header#
-#cbutton\cbutton# #num\254745936840#
+#cbutton\cbutton# #num\254715155196#
 
 to see current alive message : alive get
