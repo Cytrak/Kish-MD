@@ -2,7 +2,7 @@ const prefix = global.prefa
   const pushname = m.pushName || "No Name"
 
 const groupmenu=`
-「 *Kish BOT* 」
+「 *_CYTRA-MD_* 」
  ╭─__*👮🏻‍♂️🅖︎🅡︎🅞︎🅤︎🅟︎👮🏻‍♂️*_
  │ ${prefix}antilink
  │ ${prefix}closetime
