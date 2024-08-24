@@ -2,13 +2,13 @@ const prefix = global.prefa
   const pushname = m.pushName || "No Name"
 
 const audiomenu=`┌──⊰ _*🔞NSFW 🔞*_
-│⊳ 💦  ${prefix}blowjob
-│⊳ 💦  ${prefix}cum
+│⊳ 💦  ${prefix}bj
+│⊳ 💦  ${prefix}mwaga
 │⊳ 💦  ${prefix}foot
 │⊳ 💦  ${prefix}gangbang
 │⊳ 💦  ${prefix}hentai
-│⊳ 💦  ${prefix}pussy
-│⊳ 💦  ${prefix}ass
+│⊳ 💦  ${prefix}kuma
+│⊳ 💦  ${prefix}matako
 │⊳ 💦  ${prefix}trap
 │⊳ 💦  ${prefix}maal
 │⊳ 💦  ${prefix}ʀɪʙʙᴏɴꜱ
