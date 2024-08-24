@@ -23,7 +23,7 @@ Trace:
 
 npm manifest: 
   {
-      "name": "Kish-MD",
+      "name": "CYTRA-MD",
       "version": "3.0.0",
       "description": "WhatsApp War Bot Using Nodejs",
       "main": "index.js",
@@ -38,7 +38,7 @@ npm manifest:
       "scripts": {
           "start": "node index.js"
       },
-      "author": "DGXeon",
+      "author": "Cytra",
       "license": "MIT",
       "dependencies": {
           "@whiskeysockets/baileys": "^6.5.0",
