@@ -23,7 +23,7 @@
 ### Pair with WhatsApp
   <div align="center">
     <a href="https://kish-md-pairing.onrender.com/">
-        <img title="Kish-MD Session ID" src="https://img.shields.io/badge/GET%20SESSION-FF5733?style=for-the-badge&logo=msi&logoColor=white" width="220"
+        <img title="CYTRA Session ID" src="https://img.shields.io/badge/GET%20SESSION-FF5733?style=for-the-badge&logo=msi&logoColor=white" width="220"
 </div>
   
   
@@ -35,7 +35,7 @@
 </p>
 <br>
 <p align="center">
-    <a href="https://railway.app">
+    <a href="https://railway.app=https://github.com/Cytrak/Kish-MD">
         <img src="https://img.shields.io/badge/RailWay%20Account-3498DB?style=for-the-badge&logo=Railway" width="220" height="38.45" />
     </a>
 </p>
